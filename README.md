@@ -39,4 +39,4 @@ All ImageIcons used in this class has their own methods as well.
   3. Replace the public static String path in QuizGame.java (line 17) with the path that is specific to your computer
   4. Open QuizGame.java, Quiz.java, and Report.java and run program according to your IDE
 
-##Thank You!
+## Thank You!
