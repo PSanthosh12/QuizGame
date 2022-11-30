@@ -1,8 +1,8 @@
 //Fix FileReport method: the timestamp prints on a different line than rest of the report (there's something wrong with the format of the timestamp)
 
-package finalproject;
+package quizgame;
 
-//@author parus
+//@author PSanthosh12
 
 import java.awt.HeadlessException;
 import java.util.*;
@@ -10,9 +10,10 @@ import javax.swing.*;
 import java.io.*;
 import java.awt.*;
 
-public class FinalProject {
+public class QuizGame {
     
     //path for all files: used for all classes
+    //this is specific to my computer. If you want to run this program, replace with the path of wherever you download all these files 
     public static String path = "C:\\Users\\parus\\OneDrive\\Desktop\\Academics\\Fall 2023\\Programming 2\\NetBeansProjects\\FinalProject\\src\\finalproject\\";
     
     public static void main(String[] args) throws IOException {
