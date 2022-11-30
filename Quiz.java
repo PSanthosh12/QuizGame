@@ -1,7 +1,7 @@
 
-package finalproject;
+package quizgame;
 
-import static finalproject.FinalProject.path;
+import static quizgame.QuizGame.path;
 import java.util.*;
 import javax.swing.*;
 import java.io.*;
