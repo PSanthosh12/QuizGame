@@ -13,8 +13,8 @@ import java.awt.*;
 public class QuizGame {
     
     //path for all files: used for all classes
-    //this is specific to my computer. If you want to run this program, replace with the path of wherever you download all these files 
-    public static String path = "C:\\Users\\parus\\OneDrive\\Desktop\\Academics\\Fall 2023\\Programming 2\\NetBeansProjects\\FinalProject\\src\\finalproject\\";
+    //If you want to run this program, replace with the path of wherever you download all these files 
+    public static String path = "C:\\*****\\*****\\********\\*******\\*********\\*********\\************\\*************\\QuizGame\\src\\quizgame\\";
     
     public static void main(String[] args) throws IOException {
         
