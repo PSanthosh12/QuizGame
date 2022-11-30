@@ -1,0 +1,7 @@
+Tue_11.29.2022_02:28:02_PM,Asna_Abdulali,aabdulali,100
+Tue_11.29.2022_02:28:02_PM,Adeola_Adefarakan,aadefarakan,60
+Tue_11.29.2022_02:28:02_PM,Lauren_Belton,lbelton,70
+Tue_11.29.2022_02:28:02_PM,Madhavi_Dhakal,mdhakal2,40
+Tue_11.29.2022_02:28:02_PM,Fowzia_Gaal,fgaal,80
+Tue_11.29.2022_02:28:02_PM,Fabiola_Gomez,fgomez4,50
+Tue_11.29.2022_02:28:02_PM,Mary_James,mjames20,20
